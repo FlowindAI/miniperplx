@@ -28,9 +28,11 @@ Upvote MiniPerplx on ProductHunt to show your support!
 - **Movie or TV Show Search**: Get information about any movie or TV show.
 
 ## LLM used
+
 - [xAI's Grok](https://x.ai/grok)
 
 ## Built with
+
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vercel AI SDK](https://sdk.vercel.ai/docs)
@@ -52,23 +54,29 @@ Upvote MiniPerplx on ProductHunt to show your support!
 ## Set MiniPerplx as your default search engine
 
 1. **Open the Chrome browser settings**:
+
    - Click on the three vertical dots in the upper right corner of the browser.
    - Select "Settings" from the dropdown menu.
 
 2. **Go to the search engine settings**:
+
    - In the left sidebar, click on "Search engine."
    - Then select "Manage search engines and site search."
 
 3. **Add a new search engine**:
+
    - Click on "Add" next to "Site search."
 
 4. **Set the search engine name**:
+
    - Enter `MiniPerplx` in the "Search engine" field.
 
 5. **Set the search engine URL**:
+
    - Enter `https://mplx.run?q=%s` in the "URL with %s in place of query" field.
 
 6. **Set the search engine shortcut**:
+
    - Enter `mp` in the "Shortcut" field.
 
 7. **Set Default**:
